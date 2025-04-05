@@ -12,6 +12,4 @@ Due to GitHub's 100MB file size limit, the `similarity.pkl` file is not included
 After downloading, place it in:
 Movie Recommender System/ ├── app.py ├── similarity.pkl ← Place here ├── ...
 
-
 This file is essential for generating movie recommendations.
-
